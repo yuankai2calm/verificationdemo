@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Desktop\SaveFile\WorthReviewDemo\LocalVerificationDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Administrator\Desktop\SaveFile\WorthReviewDemo\LocalVerificationDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_358793e8d993bbed8fb16202da55c9d0218978f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\SaveFile\WorthReviewDemo\LocalVerificationDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Administrator\Desktop\SaveFile\WorthReviewDemo\LocalVerificationDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_851ca4c9c36d6d4876b63358cdc7dcf255928b0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\Administrator\Desktop\SaveFile\WorthReviewDemo\LocalVerificationDemo\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_a2a255623276bf6fd1b525dcb3e3c692cac62c3e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\SaveFile\WorthReviewDemo\LocalVerificationDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Administrator\Desktop\SaveFile\WorthReviewDemo\LocalVerificationDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_543a61a56c1e9835e46b29a200afa29249dd417a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\SaveFile\WorthReviewDemo\LocalVerificationDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="006a8dcb81994646222bda117069664957f398e2">
+        <dex dex="C:\Users\Administrator\Desktop\SaveFile\WorthReviewDemo\LocalVerificationDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f82c50d4784bd202bd9e6b7470d28681c8f4521a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\SaveFile\WorthReviewDemo\LocalVerificationDemo\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\Administrator\Desktop\SaveFile\WorthReviewDemo\LocalVerificationDemo\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.4.0_b11ec71027410e1f41c0a82280180e8008cab757.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\SaveFile\WorthReviewDemo\LocalVerificationDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5b27e8803925a710009458ca46df505b58fa94b3">
+        <dex dex="C:\Users\Administrator\Desktop\SaveFile\WorthReviewDemo\LocalVerificationDemo\app\build\intermediates\pre-dexed\debug\instant-run_82649371cfd86a1dc0771714f01860bda7ee01f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Administrator\Desktop\SaveFile\WorthReviewDemo\LocalVerificationDemo\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_624ffef837a64c3afe9bb9fe8426f6ccaa054bc1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\SaveFile\WorthReviewDemo\LocalVerificationDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Administrator\Desktop\SaveFile\WorthReviewDemo\LocalVerificationDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_e09d8ff761bdb6816e984ef9a33edb80e0af887d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\SaveFile\WorthReviewDemo\LocalVerificationDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Administrator\Desktop\SaveFile\WorthReviewDemo\LocalVerificationDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_8653932719d430858de2c656d044e251aff185ab.jar" />
+    </item>
+
+</items>

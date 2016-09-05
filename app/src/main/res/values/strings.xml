@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LocalVerificationDemo</string>
+    <string name="text_style_content">这里是注入和SpannableString类的使用示例子。
+        链接https://www.douban.com/；展示各种文本显示的样式，直接在一个TextView中显示可以大大简化布局</string>
+
+    <string name="platform_weichat_circle">朋友圈</string>
+    <string name="platform_weichat">微信</string>
+    <string name="platform_sina">微博</string>
+    <string name="platform_qq">QQ</string>
+    <string name="platform_copy_link">复制链接</string>
+    <string name="platform_more_option">更多</string>
+</resources>
